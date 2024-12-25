@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "I'm interested in Medical AI Engineering.",
     email: "znlwmdhkd1@yonsei.ac.kr",
     linkedin: "",
-    github: "https://github.com/burnout909?achievement=pull-shark&tab=achievements",
+    github: "burnout909",
     instagram: "",
   },
   projects: [
